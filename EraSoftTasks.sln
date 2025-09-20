@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagementSystem", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam_management_system", "Exam_management_system\Exam_management_system.csproj", "{40480826-93B8-43A9-AC09-8F956C22CFC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student system", "Student system\Student system.csproj", "{10A254AC-58ED-48C6-9547-8231140D5FF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_SalesDatabase", "P02_SalesDatabase\P02_SalesDatabase.csproj", "{863A1F56-8BD6-4990-8CCA-26B71897BC5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{40480826-93B8-43A9-AC09-8F956C22CFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40480826-93B8-43A9-AC09-8F956C22CFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40480826-93B8-43A9-AC09-8F956C22CFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A254AC-58ED-48C6-9547-8231140D5FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A254AC-58ED-48C6-9547-8231140D5FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A254AC-58ED-48C6-9547-8231140D5FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A254AC-58ED-48C6-9547-8231140D5FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863A1F56-8BD6-4990-8CCA-26B71897BC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863A1F56-8BD6-4990-8CCA-26B71897BC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863A1F56-8BD6-4990-8CCA-26B71897BC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863A1F56-8BD6-4990-8CCA-26B71897BC5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
