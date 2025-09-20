@@ -13,7 +13,7 @@ namespace P02_SalesDatabase.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer("Data Source=.;initial Catalog = Sales_database ;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;");
+            optionsBuilder.UseSqlServer("Data Source=.;initial Catalog = sales_database ;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;");
         }
     }
 }
