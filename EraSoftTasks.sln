@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagementSystem", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam_management_system", "Exam_management_system\Exam_management_system.csproj", "{40480826-93B8-43A9-AC09-8F956C22CFC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student system", "Student system\Student system.csproj", "{10A254AC-58ED-48C6-9547-8231140D5FF6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_StudentSystem", "Student system\P01_StudentSystem.csproj", "{10A254AC-58ED-48C6-9547-8231140D5FF6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_SalesDatabase", "P02_SalesDatabase\P02_SalesDatabase.csproj", "{863A1F56-8BD6-4990-8CCA-26B71897BC5A}"
 EndProject
